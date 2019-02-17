@@ -1,7 +1,7 @@
 {
   "main.css": "https://johnjiang2017.github.io/contactmanager/static/css/main.ec81c464.chunk.css",
-  "main.js": "https://johnjiang2017.github.io/contactmanager/static/js/main.2f1971bb.chunk.js",
-  "main.js.map": "https://johnjiang2017.github.io/contactmanager/static/js/main.2f1971bb.chunk.js.map",
+  "main.js": "https://johnjiang2017.github.io/contactmanager/static/js/main.7cf6eaf7.chunk.js",
+  "main.js.map": "https://johnjiang2017.github.io/contactmanager/static/js/main.7cf6eaf7.chunk.js.map",
   "static/css/1.c765d478.chunk.css": "https://johnjiang2017.github.io/contactmanager/static/css/1.c765d478.chunk.css",
   "static/js/1.5dc9b385.chunk.js": "https://johnjiang2017.github.io/contactmanager/static/js/1.5dc9b385.chunk.js",
   "static/js/1.5dc9b385.chunk.js.map": "https://johnjiang2017.github.io/contactmanager/static/js/1.5dc9b385.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.c765d478.chunk.css.map": "https://johnjiang2017.github.io/contactmanager/static/css/1.c765d478.chunk.css.map",
   "static/css/main.ec81c464.chunk.css.map": "https://johnjiang2017.github.io/contactmanager/static/css/main.ec81c464.chunk.css.map",
   "index.html": "https://johnjiang2017.github.io/contactmanager/index.html",
-  "precache-manifest.1f93f6b91ac97dc456352a38c1c3cedc.js": "https://johnjiang2017.github.io/contactmanager/precache-manifest.1f93f6b91ac97dc456352a38c1c3cedc.js",
+  "precache-manifest.c4011006f36ce79d9dd7a435d38553c4.js": "https://johnjiang2017.github.io/contactmanager/precache-manifest.c4011006f36ce79d9dd7a435d38553c4.js",
   "service-worker.js": "https://johnjiang2017.github.io/contactmanager/service-worker.js"
 }
