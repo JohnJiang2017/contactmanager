@@ -1,13 +1,15 @@
 {
-  "main.css": "/static/css/main.ec81c464.chunk.css",
-  "main.js": "/static/js/main.b213ca8b.chunk.js",
-  "main.js.map": "/static/js/main.b213ca8b.chunk.js.map",
-  "static/js/1.6987f0f6.chunk.js": "/static/js/1.6987f0f6.chunk.js",
-  "static/js/1.6987f0f6.chunk.js.map": "/static/js/1.6987f0f6.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.ec81c464.chunk.css.map": "/static/css/main.ec81c464.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.e9a1c11f8a1cb85fe4099e7f8dd1bb8f.js": "/precache-manifest.e9a1c11f8a1cb85fe4099e7f8dd1bb8f.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "https://johnjiang2017.github.io/contactmanager/static/css/main.ec81c464.chunk.css",
+  "main.js": "https://johnjiang2017.github.io/contactmanager/static/js/main.ad65613a.chunk.js",
+  "main.js.map": "https://johnjiang2017.github.io/contactmanager/static/js/main.ad65613a.chunk.js.map",
+  "static/css/1.c765d478.chunk.css": "https://johnjiang2017.github.io/contactmanager/static/css/1.c765d478.chunk.css",
+  "static/js/1.5dc9b385.chunk.js": "https://johnjiang2017.github.io/contactmanager/static/js/1.5dc9b385.chunk.js",
+  "static/js/1.5dc9b385.chunk.js.map": "https://johnjiang2017.github.io/contactmanager/static/js/1.5dc9b385.chunk.js.map",
+  "runtime~main.js": "https://johnjiang2017.github.io/contactmanager/static/js/runtime~main.f3611d77.js",
+  "runtime~main.js.map": "https://johnjiang2017.github.io/contactmanager/static/js/runtime~main.f3611d77.js.map",
+  "static/css/1.c765d478.chunk.css.map": "https://johnjiang2017.github.io/contactmanager/static/css/1.c765d478.chunk.css.map",
+  "static/css/main.ec81c464.chunk.css.map": "https://johnjiang2017.github.io/contactmanager/static/css/main.ec81c464.chunk.css.map",
+  "index.html": "https://johnjiang2017.github.io/contactmanager/index.html",
+  "precache-manifest.ba22f18870dc4d79df6aadc39a5e9f54.js": "https://johnjiang2017.github.io/contactmanager/precache-manifest.ba22f18870dc4d79df6aadc39a5e9f54.js",
+  "service-worker.js": "https://johnjiang2017.github.io/contactmanager/service-worker.js"
 }
